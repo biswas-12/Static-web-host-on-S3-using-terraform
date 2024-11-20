@@ -1,4 +1,8 @@
-# Initialize Your Terraform Environment 🔄
+# About
+This project aims to automate the deployment of a static website on Amazon S3 using Terraform. Terraform is a powerful infrastructure as code tool that allows you to define and provision infrastructure resources, such as S3 buckets, in a declarative way. By using Terraform, you can easily manage and version control your infrastructure.
+
+
+## Initialize Your Terraform Environment 🔄
 
 Start by running `terraform init` in your project directory. This command sets up Terraform by downloading necessary plugins and modules, making your environment ready for the next steps.
 
