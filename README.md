@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/1fa917bb-9e23-496d-97f3-b7c8af4b900c)
+
 # About
 This project aims to automate the deployment of a static website on Amazon S3 using Terraform. Terraform is a powerful infrastructure as code tool that allows you to define and provision infrastructure resources, such as S3 buckets, in a declarative way. By using Terraform, you can easily manage and version control your infrastructure.
 
